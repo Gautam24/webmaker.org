@@ -13,7 +13,7 @@
       {
         "title": "Tips and tricks",
         "links": [
-          "<strong><a href=\"https://support.mozilla.org/en-US/products/firefox/get-started/tips\">Level up your browser skills</a> </strong>with these tips and tricks for Firefox. Keyboard and mouse shortcuts, automating common searches, organizing tabs and more. (Here&rsquo;s similar tips for <a href=\"https://www.google.com/intl/en/chrome/browser/signin.html\">Chrome</a>, <a href=\"http://windows.microsoft.com/en-ca/internet-explorer/products/ie-9/tips\">Internet Explorer</a>, <a href=\"http://support.apple.com/kb/ht5364\">Safari</a> and<a href=\"http://fedoraproject.org/en/get-help\"> Fedora</a>.)"
+          "<strong><a href=\"https://support.mozilla.org/products/firefox/get-started/tips\">Level up your browser skills</a> </strong>with these tips and tricks for Firefox. Keyboard and mouse shortcuts, automating common searches, organizing tabs and more. (Here&rsquo;s similar tips for <a href=\"https://www.google.com/intl/en/chrome/browser/signin.html\">Chrome</a>, <a href=\"http://windows.microsoft.com/en-ca/internet-explorer/products/ie-9/tips\">Internet Explorer</a>, <a href=\"http://support.apple.com/kb/ht5364\">Safari</a> and<a href=\"http://fedoraproject.org/en/get-help\"> Fedora</a>.)"
         ]
       },
       {
@@ -32,7 +32,7 @@
     "make": [
       {
         "title": "Supercharge your browser",
-        "description": "<strong>Add-ons for your browser can help you navigate more easily</strong>&mdash;plus simplify tasks and unlock new powers. <a href=\"https://addons.mozilla.org/en-US/firefox/?application=firefox\">Trick out your Firefox browser with add-ons</a>."
+        "description": "<strong>Add-ons for your browser can help you navigate more easily</strong>&mdash;plus simplify tasks and unlock new powers. <a href=\"https://addons.mozilla.org/firefox/?application=firefox\">Trick out your Firefox browser with add-ons</a>."
       },
       {
         "title": "Navigate like a superhero",
@@ -181,7 +181,7 @@
       {
         "title": "Don&rsquo;t want your searches to be tracked?",
         "links": [
-          "Search without letting your searches be tracked using <a href=\"https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature\">Do Not Track.</a>"
+          "Search without letting your searches be tracked using <a href=\"https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature\">Do Not Track.</a>"
         ]
       },
       {
@@ -193,7 +193,7 @@
       {
         "title": "I don&rsquo;t want my searches to be tracked....",
         "links": [
-          "Search without allowing your searches to be tracked using <a href=\"https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature\">Do Not Track by Firefox</a>."
+          "Search without allowing your searches to be tracked using <a href=\"https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature\">Do Not Track by Firefox</a>."
         ]
       },
       {
@@ -370,7 +370,7 @@
     "make": [
       {
         "title": "Create a how-to video for the Lightbeam project",
-        "description": "Learn about the <a href=\"https://www.mozilla.org/en-US/lightbeam/\">Mozilla Lightbeam project</a>, which tracks those who are watching you online, and then add your own flavor to the issue by <a href=\"https://laura.makes.org/popcorn/1oj6\">remixing this Popcorn video</a> and enhancing it with your own sound and images."
+        "description": "Learn about the <a href=\"https://www.mozilla.org/lightbeam/\">Mozilla Lightbeam project</a>, which tracks those who are watching you online, and then add your own flavor to the issue by <a href=\"https://laura.makes.org/popcorn/1oj6\">remixing this Popcorn video</a> and enhancing it with your own sound and images."
       },
       {
         "title": "Remix a graphic novel about mobile security",
@@ -378,7 +378,7 @@
       },
       {
         "title": "Create a strong Internet password",
-        "description": "This article and the companion video by the Mozilla Support team will show you <a href=\"https://support.mozilla.org/en-US/kb/create-secure-passwords-keep-your-identity-safe\">how to create secure, easy-to-remember passwords</a>."
+        "description": "This article and the companion video by the Mozilla Support team will show you <a href=\"https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe\">how to create secure, easy-to-remember passwords</a>."
       }
     ],
     "teach": {
@@ -1092,7 +1092,7 @@
       },
       {
         "title": "Get involved with the Webmaker community ",
-        "description": "<a href=\"https://webmaker.org/en-US/getinvolved\">Help learners around the world</a> by teaching the web, together."
+        "description": "<a href=\"https://webmaker.org/getinvolved\">Help learners around the world</a> by teaching the web, together."
       }
     ],
     "teach": {
@@ -1128,7 +1128,7 @@
       {
         "title": "Mozilla Community guidelines",
         "links": [
-          "<a href=\"http://www.mozilla.org/en-US/about/governance/policies/participation/\">Participation Guidelines</a> for involvement in the Mozilla Community."
+          "<a href=\"http://www.mozilla.org/about/governance/policies/participation/\">Participation Guidelines</a> for involvement in the Mozilla Community."
         ]
       },
       {
@@ -1152,7 +1152,7 @@
       {
         "title": "Source",
         "links": [
-          "<a href=\"https://source.opennews.org/en-US/\">Source is an OpenNews project</a> designed to amplify the impact of journalism code and the community of developers, designers, journalists, and editors."
+          "<a href=\"https://source.opennews.org/\">Source is an OpenNews project</a> designed to amplify the impact of journalism code and the community of developers, designers, journalists, and editors."
         ]
       },
       {
@@ -1209,19 +1209,19 @@
         "title": "See who&rsquo;s tracking you online",
         "links": [
           "Watch the video. As you surf the Web, information is being collected about you. This <a href=\"http://www.ted.com/talks/gary_kovacs_tracking_the_trackers\">&ldquo;Tracking the Trackers&rdquo; TED Talk video</a> explains how.",
-          "Try it for yourself. <a href=\"http://www.mozilla.org/en-US/lightbeam/\">Install the Lightbeam add-on</a> to see for yourself. Shine a light on who&rsquo;s watching your online activities."
+          "Try it for yourself. <a href=\"http://www.mozilla.org/lightbeam/\">Install the Lightbeam add-on</a> to see for yourself. Shine a light on who&rsquo;s watching your online activities."
         ]
       },
       {
         "title": "Tell sites you don&rsquo;t want to be tracked",
         "links": [
-          "Enable &ldquo;Do Not Track.&rdquo; You can tell sites to stop tracking your browsing history using <a href=\"http://www.mozilla.org/en-US/dnt/\">this simple change</a> to your browser settings. Here&rsquo;s how: <br><br>\n<ul>\n<li><a href=\"https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature#w_how-does-the-do-not-track-feature-work\">Firefox</a></li>\n<li><a href=\"http://windows.microsoft.com/en-ca/internet-explorer/use-tracking-protection#ie=ie-11\">Internet Explorer</a></li>\n<li><a href=\"http://osxdaily.com/2012/08/21/how-to-enable-do-not-track-in-safari-6/\">Safari</a></li>\n<li><a href=\"http://www.cnet.com/how-to/how-to-enable-chromes-do-not-track-option/\">Chrome</a></li>\n<li><a href=\"http://www.opera.com/help/tutorials/security/control/#referrer\">Opera</a></li>\n</ul>"
+          "Enable &ldquo;Do Not Track.&rdquo; You can tell sites to stop tracking your browsing history using <a href=\"http://www.mozilla.org/dnt/\">this simple change</a> to your browser settings. Here&rsquo;s how: <br><br>\n<ul>\n<li><a href=\"https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature#w_how-does-the-do-not-track-feature-work\">Firefox</a></li>\n<li><a href=\"http://windows.microsoft.com/en-ca/internet-explorer/use-tracking-protection#ie=ie-11\">Internet Explorer</a></li>\n<li><a href=\"http://osxdaily.com/2012/08/21/how-to-enable-do-not-track-in-safari-6/\">Safari</a></li>\n<li><a href=\"http://www.cnet.com/how-to/how-to-enable-chromes-do-not-track-option/\">Chrome</a></li>\n<li><a href=\"http://www.opera.com/help/tutorials/security/control/#referrer\">Opera</a></li>\n</ul>"
         ]
       },
       {
         "title": "How to turn on private browsing",
         "links": [
-          "If you don&rsquo;t want anyone with physical access to your computer to see what you&rsquo;re doing online, you can <a href=\"https://support.mozilla.org/en-US/kb/private-browsing-browse-web-without-saving-info\">enable &ldquo;private browsing.&rdquo;</a> This deletes cookies, temporary Internet files and browsing history after you close the window."
+          "If you don&rsquo;t want anyone with physical access to your computer to see what you&rsquo;re doing online, you can <a href=\"https://support.mozilla.org/kb/private-browsing-browse-web-without-saving-info\">enable &ldquo;private browsing.&rdquo;</a> This deletes cookies, temporary Internet files and browsing history after you close the window."
         ]
       },
       {
@@ -1267,7 +1267,7 @@
       },
       {
         "title": "Write about who&rsquo;s tracking your online",
-        "description": "Use <a href=\"https://www.mozilla.org/en-US/lightbeam/\">Lightbeam</a> to gather research about who&rsquo;s tracking you online. Or do research about government surveillance. Then tell a story about what you&rsquo;ve learned. You could publish it as a web page with <a href=\"http://thimble.webmaker.org/\">Thimble</a>, make a multimedia essay with <a href=\"https://popcorn.webmaker.org/\">Popcorn</a>, or just write a blog post or tweet about it."
+        "description": "Use <a href=\"https://www.mozilla.org/lightbeam/\">Lightbeam</a> to gather research about who&rsquo;s tracking you online. Or do research about government surveillance. Then tell a story about what you&rsquo;ve learned. You could publish it as a web page with <a href=\"http://thimble.webmaker.org/\">Thimble</a>, make a multimedia essay with <a href=\"https://popcorn.webmaker.org/\">Popcorn</a>, or just write a blog post or tweet about it."
       },
       {
         "title": "Host a &ldquo;crypto-party&rdquo; for you and your friends",
